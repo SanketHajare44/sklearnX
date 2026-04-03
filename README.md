@@ -1,3 +1,4 @@
+# sklearnX
 sklearnX is a lightweight machine learning library built from scratch in Python.
 It provides implementations of core machine learning algorithms using NumPy
 with a clean and modular design inspired by scikit-learn.
@@ -10,7 +11,7 @@ The goal of this project is to understand machine learning algorithms
 by implementing them from scratch while maintaining a structure similar
 to modern ML libraries.
 
-# sklearnX
+---
 
 ## Overview
 **sklearnX** is a lightweight machine learning library built from scratch in Python.  
@@ -35,14 +36,13 @@ The goal of this project is to understand how machine learning algorithms work i
 ---
 
 ## Project Structure
-
-├── readme.md
-|
+.
+├── README.md
 └── sklearnX
     ├── __init__.py
     ├── neighborsX
-    │   ├── __init__.py
-    │   ├── _KNeighborsBase.py
-    │   ├── KNeighborsClassifierX.py
-    │   ├── KNeighborsRegressorX.py
+        ├── __init__.py
+        ├── _KNeighborsBase.py
+        ├── KNeighborsClassifierX.py
+        └── KNeighborsRegressorX.py
 
