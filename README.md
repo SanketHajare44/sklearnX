@@ -36,7 +36,7 @@ The goal of this project is to understand how machine learning algorithms work i
 ---
 
 ## Project Structure
-.
+```.
 ├── README.md
 └── sklearnX
     ├── __init__.py
@@ -45,4 +45,5 @@ The goal of this project is to understand how machine learning algorithms work i
         ├── _KNeighborsBase.py
         ├── KNeighborsClassifierX.py
         └── KNeighborsRegressorX.py
+```
 
