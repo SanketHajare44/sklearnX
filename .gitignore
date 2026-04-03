@@ -1,0 +1,57 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled Python files
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Python cache
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# mypy
+.mypy_cache/
+
+# Dataset cache
+*.sqlite3
